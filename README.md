@@ -9,4 +9,4 @@
     3a. Selected school compared to other schools in the dataset
   d. The data analysis contains a cleaning task
   e. The data analysis contains one visualisation
-  f. Summary of Analysis: The data file contains 212331 entries with 15 columns. There are two data types: int64 and object. The numeric data in the file had to be converted in order to use the group by funcition. 
+  f. Summary of Analysis: The data file contains 212331 entries with 15 columns. There are two data types: int64 and object. The numeric data in the file had to be converted in order to use the group by function. Utilised the Scatter chart feature for visualisation.
